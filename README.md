@@ -7,7 +7,7 @@
 ### Hi there, I am Salim 👋
 
 
-I am Salimkhan, a recently graduated computer vision enthusiast and working currently as an algorithm developer in computer vision for autonomous driving. Check out my [Master Thesis](https://github.com/khany27/Object_Detection_Using_TensorFlow_1.15), where I have presented my thesis on road damage detection based on GPR and Deep learning models. It utilises TensorFlow Object Detection API and I have provided an easy tutorial to train a custom object detecotr on TensorFlow.
+I am a recently graduated computer vision enthusiast and working currently as an algorithm developer in computer vision for autonomous driving. Check out my [Master Thesis](https://github.com/khany27/Object_Detection_Using_TensorFlow_1.15), where I have presented my thesis on road damage detection based on GPR and Deep learning models. It utilises TensorFlow Object Detection API and I have provided an easy tutorial to train a custom object detecotr on TensorFlow.
 
 Currently, I am working with CenterNet, Yolov3 and Yolov5 on PyTorch on the same topic and on vechile and pedestrain detections. PyTorch provides great speed in running the inferences and hence my current project is to run the inference on an autonomous car to detect objects based on Camera and road damages based on GPR sensors.
 
