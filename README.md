@@ -53,7 +53,7 @@ This project represents the topic of my master thesis. It  aims  to  implement  
 
 ### 2. Object Detection: Vehicle and pedestrain detection and road subsurface damage detection on YOLOv3
 <p align="justify">
-The projects explores the trajectory tracking application for road rollers during edge compaction task. The roller receives path information from the paver through a remote interface. The algorithm extracts the edge spline of the path and then is offset to create a trajectory for the rollers to maneuvre. The behaviour based control strategy allows the rollers to switch to crab steering mode of the "Edge Compaction mode is activated. <br> 
+The projects explores the object detection application for autonomous driving. It a PyTorch implementation of YOLOv3 object detection model based on this: [Yolov3 - Ultralytics](https://github.com/ultralytics/yolov3). Th edetection is model is customized for 16 bit GPR B-scans and RGB-D images on CARLA.  <br> 
 
 <p align="justify">
 <i><b>Keywords</b> — Object Detection, Computer Vision, Deep Learning, PyTorch, YOLOv3, Autonomous Vehicle <br>
