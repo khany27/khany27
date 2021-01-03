@@ -1,7 +1,7 @@
 <!--- [![Salimkhan](https://drive.google.com/file/d/10DTmw4AyieWaiKVOTv0mpNHVu4Dkjv-a/view?usp=sharing)](https://www.salimkhan.de)--->
 
 <p align="center">
-  <img src="DSC_0136 (2).JPG"width="450" height="300">
+  <img src="self_face_detection.gif"width="500" height="240">
 </p>
 
 ### Hi there, I am Salim 👋
