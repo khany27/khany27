@@ -47,7 +47,7 @@ This project represents the topic of my master thesis. It  aims  to  implement  
 
 [Repository](https://github.com/khany27/object_detection#2-Download-TensorFlow-Object-Detection-API)
 </p>
-<img src="/images/GPR_detection.gif" width="200" height=200>
+<!--<img src="/images/GPR_detection.gif" width="200" height=200>-->
 
 ---
 
