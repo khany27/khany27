@@ -62,6 +62,6 @@ The projects explores the object detection application for autonomous driving. I
 [Repository](https://github.com/khany27/yolov3_pytorch)
 </p>
 
-<img src="/images/temp_30_sec (1).gif"/>
+<!-- <img src="/images/temp_30_sec (1).gif"/>-->
 
 ---
